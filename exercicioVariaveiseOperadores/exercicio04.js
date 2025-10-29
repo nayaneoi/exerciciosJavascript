@@ -1,0 +1,12 @@
+const leia = require('readline-sync')
+let n1,n2,n3,n4,diferenca
+console.log("Digite o primeiro número= ")
+n1 = leia.questionFloat()
+console.log("Digite o segundo número= ")
+n2 = leia.questionFloat()
+console.log("Digite o terceiro número= ")
+n3 = leia.questionFloat()
+console.log("Digite o quarto número= ")
+n4 = leia.questionFloat()
+diferenca = (n1*n2)-(n3*n4)
+console.log("A diferença é de= "+ diferenca.toFixed(1))
