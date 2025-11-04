@@ -1,5 +1,27 @@
 {
   "dependencies": {
+    "@types/node": "^24.10.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8"
+  },
+  "name": "exerciciosjavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nayaneoi/exercicioVariaveiseOperadores.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nayaneoi/exercicioVariaveiseOperadores/issues"
+  },
+  "homepage": "https://github.com/nayaneoi/exercicioVariaveiseOperadores#readme"
 }
